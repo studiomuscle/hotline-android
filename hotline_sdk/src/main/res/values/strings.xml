@@ -1,66 +1,66 @@
 <resources>
-	<string name="hotline_label_user_name">You</string>
-	<string name="hotline_label_agent_name">Support</string>
-	<string name="hotline_label_duration">Duration</string>
-	<string name="hotline_label_downloading">Downloading...</string>
-	<string name="hotline_label_deeplink">View</string>
-	<string name="hotline_label_deeplink_article">View FAQ</string>
-	<string name="hotline_label_picture_capture_from_camera">Take a picture</string>
-	<string name="hotline_label_picture_pick_from_gallery">Upload from gallery</string>
-	<string name="hotline_error_message_no_network_connection">Unable to connect to the internet</string>
-	<string name="hotline_content_description_upload_status">Upload Status</string>
+	<string name="hotline_label_user_name">Jij</string>
+	<string name="hotline_label_agent_name">Ondersteuning</string>
+	<string name="hotline_label_duration">Duurtijd</string>
+	<string name="hotline_label_downloading">Aan het downloaden...</string>
+	<string name="hotline_label_deeplink">Kijken</string>
+	<string name="hotline_label_deeplink_article">Zie vaak gestelde vragen</string>
+	<string name="hotline_label_picture_capture_from_camera">Neem een foto</string>
+	<string name="hotline_label_picture_pick_from_gallery">Uploaden vanuit galerij</string>
+	<string name="hotline_error_message_no_network_connection">Kan geen verbinding maken met internet</string>
+	<string name="hotline_content_description_upload_status">Uploadstatus</string>
 
-	<string name="hotline_category_list_empty_message">There are no FAQs available</string>
-	<string name="hotline_article_list_empty_message">There are no FAQs available</string>
-	<string name="hotline_channel_list_empty_message">There are no message channels available</string>
-	<string name="hotline_label_support_solutions_list_label">FAQs</string>
-	<string name="hotline_message_vote_successful">Thank you for your Feedback!</string>
-	<string name="hotline_solutions_vote_prompt">Was this solution helpful?</string>
+	<string name="hotline_category_list_empty_message">Er zijn geen "vaak gestelde vragen" beschikbaar</string>
+	<string name="hotline_article_list_empty_message">Er zijn geen "vaak gestelde vragen" beschikbaar</string>
+	<string name="hotline_channel_list_empty_message">Er zijn geen berichtkanalen beschikbaar</string>
+	<string name="hotline_label_support_solutions_list_label">Vaak gestelde vragen</string>
+	<string name="hotline_message_vote_successful">Bedankt voor jouw feedback!</string>
+	<string name="hotline_solutions_vote_prompt">Was deze oplossing nuttig?</string>
 
 	<!-- Label text for UI elements -->
-	<string name="hotline_label_yes">Yes</string>
-	<string name="hotline_label_no">No</string>
-	<string name="hotline_label_article_upvote">Yes</string>
-	<string name="hotline_label_article_downvote">No</string>
-	<string name="hotline_label_send_message">Send message</string>
-    <string name="hotline_label_video_loading_message">Loading Video. Please Wait!</string>
-	<string name="hotline_label_picture_message_caption">Picture Message</string>
+	<string name="hotline_label_yes">Ja</string>
+	<string name="hotline_label_no">Nee</string>
+	<string name="hotline_label_article_upvote">Ja</string>
+	<string name="hotline_label_article_downvote">Nee</string>
+	<string name="hotline_label_send_message">Verstuur bericht</string>
+    <string name="hotline_label_video_loading_message">Video laadt. Even geduld!</string>
+	<string name="hotline_label_picture_message_caption">Bericht met afbeelding</string>
 
 	<!-- Hint for Input Fields -->
-	<string name="hotline_hint_compose_message">Type a message</string>
+	<string name="hotline_hint_compose_message">Schrijf een bericht</string>
 
 	<!-- Image Content Descriptions -->
-	<string name="hotline_description_voice_message">Send voice message</string>
-	<string name="hotline_description_attach_image">Attach Image</string>
-	<string name="hotline_description_send_message">Send message</string>
-    <string name="hotline_label_contactus">Contact Us</string>
-	<string name="hotline_label_myconversations">My Conversations</string>
-	<string name="hotline_label_voice_message">Voice Message</string>
+	<string name="hotline_description_voice_message">Verstuur een gesproken bericht</string>
+	<string name="hotline_description_attach_image">Voeg een afbeelding toe</string>
+	<string name="hotline_description_send_message">Verstuur een bericht</string>
+    <string name="hotline_label_contactus">Contacteer ons</string>
+	<string name="hotline_label_myconversations">Mijn conversaties</string>
+	<string name="hotline_label_voice_message">Gesproken bericht</string>
 
-	<string name="hotline_message_failed_to_load_solution_article">Unable to load this article</string>
-	<string name="hotline_message_speaker_phone_on">Audio will play through your ear piece</string>
-	<string name="hotline_message_speaker_phone_off">"Audio will play through your phone's speaker"</string>
-    <string name="hotline_message_retry_message">Could not send message. Will try again later</string>
-	<string name="hotline_message_text_copied">Message text copied to clipboard</string>
-    <string name="hotline_message_image_Saved">New Image saved:</string>
-    <string name="hotline_message_image_not_saved">Image could not be saved.</string>
-    <string name="hotline_message_short_message_title">Message Too Short</string>
-    <string name="hotline_message_short_message">The message you are trying to send spans less than a second. Are you sure you want to send it ?</string>
-    <string name="hotline_message_from_db">Message cannot be displayed. Please upgrade your app to view this message</string>
-	<string name="hotline_warning_voice_message_duration_limit_reached">Reached voice message max duration limit, please release to send the message, otherwise message will get discarded soon</string>
-	<string name="hotline_warning_multimedia_article_network_not_connected">Please connect to the internet to view the rich media content present in this FAQ</string>
-	<string name="hotline_error_no_matching_solution_articles_found">No matching solution articles found !</string>
-	<string name="hotline_menu_item_title_toggle_speaker">Toggle speakerphone</string>
+	<string name="hotline_message_failed_to_load_solution_article">Onmogelijk het bericht te laden</string>
+	<string name="hotline_message_speaker_phone_on">Geluid zal via je hoofdtelefoon spelen</string>
+	<string name="hotline_message_speaker_phone_off">"Geluid zal via je de luidspreker van je telefoon spelen"</string>
+    <string name="hotline_message_retry_message">Kan bericht niet versturen. We proberen dit later opnieuw</string>
+	<string name="hotline_message_text_copied">Bericht gekopieerd naar prikbord</string>
+    <string name="hotline_message_image_Saved">Nieuwe afbeelding opgeslaan:</string>
+    <string name="hotline_message_image_not_saved">Afbeelding kon niet opgeslaan worden</string>
+    <string name="hotline_message_short_message_title">Bericht te kort</string>
+    <string name="hotline_message_short_message">Het bericht dat je probeerde te versturen duurt korter dan een seconde. Ben je zeker dat je dit wil versturen?</string>
+    <string name="hotline_message_from_db">Bericht kan niet worden weergeven. Zorg voor een upgrade van je app om dit bericht te kunnen zien</string>
+	<string name="hotline_warning_voice_message_duration_limit_reached">Maximum duurtijd van gesproken bericht bereikt, laat los om het bericht te versturen, anders wordt je bericht binnenkort verwijderd</string>
+	<string name="hotline_warning_multimedia_article_network_not_connected">Verbind met internet om deze rijke media te zien in de "vaak gestelde vragen"</string>
+	<string name="hotline_error_no_matching_solution_articles_found">Geen passende artikels voor oplossing gevonden!</string>
+	<string name="hotline_menu_item_title_toggle_speaker">Gebruik speakertelefoon</string>
 
 	<!-- Activity Title -->
-	<string name="hotline_activity_title_category_list">FAQs</string>
-	<string name="hotline_activity_title_article_list">FAQs</string>
-	<string name="hotline_activity_title_article_detail">FAQ</string>
-	<string name="hotline_activity_title_channel_list">Support</string>
+	<string name="hotline_activity_title_category_list">Vaak gestelde vragen</string>
+	<string name="hotline_activity_title_article_list">Vaak gestelde vragen</string>
+	<string name="hotline_activity_title_article_detail">Vaak gestelde vragen</string>
+	<string name="hotline_activity_title_channel_list">Ondersteuning</string>
 
-	<string name="hotline_menu_item_title_search_solutions">Search</string>
-	<string name="hotline_menu_item_title_contact_us">Contact Us</string>
-	<string name="hotline_hint_solutions_search_query_hint">Search our knowledge base</string>
+	<string name="hotline_menu_item_title_search_solutions">Zoeken</string>
+	<string name="hotline_menu_item_title_contact_us">Contacteer ons</string>
+	<string name="hotline_hint_solutions_search_query_hint">Zoek in onze kennisdatabank</string>
 
 
 </resources>
